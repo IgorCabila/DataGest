@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/IgorCabila/DataGest/issues"
   },
-  "homepage": "https://github.com/IgorCabila/DataGest#readme"
+  "homepage": "https://github.com/IgorCabila/DataGest#readme",
+  "devDependencies": {
+    "chart.js": "^4.4.8",
+    "electron": "^34.3.0"
+  },
+  "dependencies": {
+    "mongoose": "^8.11.0",
+    "mysql": "^2.18.1",
+    "pg": "^8.13.3"
+  }
 }
